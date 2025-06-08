@@ -5,7 +5,7 @@
 - 🔧 Tôi sử dụng nhiều công nghệ như **Python**, **STM32**, **Raspberry Pi**, **ReactJS**, và **Node.js**.
 - 🎯 Mục tiêu của tôi là phát triển các giải pháp sáng tạo cho các vấn đề thực tế thông qua công nghệ.
 
-[!My Avatar[20250605-221117.jpg](https://i.postimg.cc/g23LFQ5x/20250605-221117.jpg)](https://postimg.cc/BjQn2YJ3)
+[![20250605-221117.jpg](https://i.postimg.cc/g23LFQ5x/20250605-221117.jpg)](https://postimg.cc/BjQn2YJ3)
 ---
 
 ## 📫 Liên hệ với tôi
