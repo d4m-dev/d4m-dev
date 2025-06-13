@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là [d4m-dev](https://github.com/d4m-dev)
 
-![React logo](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybWY0M2R5bDR3YXNtZnp1aWp1aDNod2E2ajRsOHgwdXc3NWZnZHZmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif)
+[![giphy.gif](https://i.postimg.cc/3JJznbvP/giphy.gif)](https://postimg.cc/MXNsG5tD)
 
 ## 🌱 Giới thiệu về tôi
 - 👨‍💻 Tôi là lập trình viên với niềm đam mê về **Embedded Systems**, **Blockchain**, và **AI**.
