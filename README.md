@@ -1,5 +1,5 @@
 # 👋 Xin chào, tôi là [d4m-dev](https://github.com/d4m-dev)
-
+![React Logo](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUybWY0M2R5bDR3YXNtZnp1aWp1aDNod2E2ajRsOHgwdXc3NWZnZHZmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif)
 ## 🌱 Giới thiệu về tôi
 - 👨‍💻 Tôi là lập trình viên với niềm đam mê về **Embedded Systems**, **Blockchain**, và **AI**.
 - 💼 Tôi đang làm việc với các công nghệ như **Python**, **STM32**, **Raspberry Pi**, và **Node.js**.
@@ -57,11 +57,6 @@ Tôi bắt đầu với lập trình khi còn là một sinh viên, khi tôi t�
 
 ## 📹 Demo
 [Video demo dự án IoT Smart Home](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
----
-
-## 🎨 Ảnh động & GIF
-![React Logo](https://media.giphy.com/media/XreQmkxP6bQ7a/giphy.gif)
 
 ---
 
